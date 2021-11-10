@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkautoinline"]=self["webpackChunkautoinline"]||[]).push([[763],{8143:(e,n,a)=>{a.r(n),a.d(n,{default:()=>i});var t=a(3673);function u(e,n,a,u,r,s){const c=(0,t.up)("AiHeader");return(0,t.wg)(),(0,t.j4)(c)}const r=(0,t.aZ)({name:"PageIndex"});var s=a(4260);const c=(0,s.Z)(r,[["render",u]]),i=c}}]);
